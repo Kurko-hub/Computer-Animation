@@ -1,5 +1,9 @@
 # Computer-Animation
 The .7z is the latest version of the animation, where include all the extra files, like images and the song.
-The other .blend files are version of the same animation but incomplete and without the extra files. 
-The .rar contains a video of the recording of the animation running with musi.
-These are the weekly updates to the class
+In this file, theres a folder called "Proyecto", which contains all the progress, the diferent .blends in this folder indicate the duration of the video, and the "ultimate" version is the longers
+
+The .rar contains a video of the recording of the animation running with music. 
+
+The .blend are exersice from the class.
+
+
