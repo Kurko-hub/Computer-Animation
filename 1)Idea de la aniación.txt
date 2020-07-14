@@ -6,5 +6,5 @@ melancholic and tranquillity.
 So, my video will be conformed by some scenes from the game and some locations which I
 consider are very important or iconic to the game and the community.
 One thing that I like to mention is that I want to try recreate the video from another 2D
-animation from the same game. I would like to use the ideas from that video and recreate, using
-3D tools.
+animation from the same game. I will use the ideas from that video and recreate, using
+3D tools in this case, Blender.
